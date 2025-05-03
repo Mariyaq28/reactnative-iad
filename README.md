@@ -2,6 +2,7 @@
 # 🔢 Simple Calculator (React Native Version)
 
 A clean and minimal calculator app built with **React Native**. This project is designed to perform basic arithmetic operations and is optimized for mobile use.
+📦 [Download Calculator App (.zip)](./downloads/calculator.zip)
 
 ![App Screenshot](./nativess.png)
 
