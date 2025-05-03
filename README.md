@@ -62,7 +62,6 @@ expo start
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
-Created by **Maria Qureshi** with ☕ and 💡 for mobile productivity and React Native learning.
+This project is licensed under the **MIT License**, for mobile productivity and React Native learning.
 
 
