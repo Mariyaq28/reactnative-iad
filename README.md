@@ -1,50 +1,68 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🔢 Simple Calculator (React Native Version)
 
-## Get started
+A clean and minimal calculator app built with **React Native**. This project is designed to perform basic arithmetic operations and is optimized for mobile use.
 
-1. Install dependencies
+![App Screenshot](./nativess.png)
 
-   ```bash
-   npm install
-   ```
+## 🌟 Features
 
-2. Start the app
+- ➕ Basic operations: Add, Subtract, Multiply, Divide
+- 🧹 Clear (`C`) and `=` evaluation buttons
+- 🎨 Smooth UI with interactive button feedback
+- 💾 Built with React Native and Expo
+- ⚡ Fast, lightweight, and mobile-friendly
 
-   ```bash
-    npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+- **React Native** – Mobile UI
+- **Expo** – Development and testing
+- **TypeScript** – (if used in index files)
+- **React Hooks** – State management with `useState`
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📥 How to Access This Project Locally
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+This app is not deployed to app stores yet. To run it on your mobile device or emulator:
 
-## Get a fresh project
+### 1. Prerequisites
 
-When you're ready, run:
+- Install [Node.js](https://nodejs.org)
+- Install Expo CLI globally:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+npm install -g expo-cli
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+* Install Expo Go App on your phone:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+  * [Android (Play Store)](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  * [iOS (App Store)](https://apps.apple.com/app/expo-go/id982107779)
 
-## Join the community
+### 2. Clone the Repository
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/simple-calculator-react-native.git
+cd simple-calculator-react-native
+
+
+### 3. Install Dependencies
+
+
+npm install
+
+
+### 4. Start the App
+
+expo start
+
+
+* This will open **Expo Dev Tools** in your browser.
+* Scan the QR code using the **Expo Go** app on your mobile device (make sure both are on the same WiFi).
+* Or press `a` for Android emulator / `i` for iOS simulator.
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+Created by **Maria Qureshi** with ☕ and 💡 for mobile productivity and React Native learning.
+
+
