@@ -6,7 +6,7 @@ A clean and minimal calculator app built with **React Native**. This project is 
 
 ![App Screenshot](./nativess.png)
 
-📦 [Download Calculator App (.zip)](./downloads/calculator.zip)
+
 
 ## 🌟 Features
 
